@@ -1,0 +1,6 @@
+2018-03-28 08:21:03,343 CRIT Supervisor running as root (no user in config file)
+2018-03-28 08:21:03,349 INFO supervisord started with pid 1
+2018-03-28 08:21:04,352 INFO spawned: 'cron' with pid 9
+2018-03-28 08:21:04,354 INFO spawned: 'php-fpm' with pid 10
+2018-03-28 08:21:05,399 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 08:21:05,399 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
